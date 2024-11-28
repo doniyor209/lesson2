@@ -1,0 +1,77 @@
+*{
+    margin: 0;  padding: 0;  box-sizing: border-box;
+}
+body{
+    background-color: #CD5D5D;
+}
+
+.bola{
+border: pink solid 3px;
+background-color: #D9D9D9;
+width: 250px;
+height: 50px;
+
+}
+.doda{
+    display: flex;
+}
+h1{
+    color: palevioletred;
+    font-size: 30px;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
